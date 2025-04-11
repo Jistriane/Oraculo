@@ -1,0 +1,37 @@
+{
+  "name": "starchain-identity",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview"
+  },
+  "devDependencies": {
+    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+    "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
+    "@testing-library/cypress": "^10.0.3",
+    "@types/cypress": "^0.1.6",
+    "@types/node": "^22.14.0",
+    "cypress": "^14.2.1"
+  },
+  "dependencies": {
+    "@multiversx/sdk-core": "^14.0.2",
+    "@multiversx/sdk-dapp": "^4.0.0",
+    "@multiversx/sdk-extension-provider": "^5.0.0",
+    "@multiversx/sdk-metamask-provider": "^2.0.0",
+    "@multiversx/sdk-network-providers": "^2.9.3",
+    "@multiversx/sdk-passkey-provider": "^2.0.1",
+    "@multiversx/sdk-wallet": "^4.6.0",
+    "@multiversx/sdk-wallet-connect-provider": "^6.0.1",
+    "@types/react-router-dom": "^5.3.3",
+    "buffer": "^6.0.3",
+    "react-router-dom": "^7.5.0",
+    "socket.io-client": "^4.8.1",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.5"
+  }
+}

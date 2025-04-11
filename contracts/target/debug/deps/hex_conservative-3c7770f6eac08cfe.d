@@ -1,0 +1,10 @@
+C:\Users\jistr\Star\contracts\target\debug\deps\libhex_conservative-3c7770f6eac08cfe.rmeta: C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\lib.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\buf_encoder.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\display.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\error.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\iter.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\parse.rs
+
+C:\Users\jistr\Star\contracts\target\debug\deps\hex_conservative-3c7770f6eac08cfe.d: C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\lib.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\buf_encoder.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\display.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\error.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\iter.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\parse.rs
+
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\lib.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\buf_encoder.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\display.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\error.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\iter.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hex-conservative-0.1.2\src\parse.rs:

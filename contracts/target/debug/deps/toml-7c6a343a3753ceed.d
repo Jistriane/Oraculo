@@ -1,0 +1,13 @@
+C:\Users\jistr\Star\contracts\target\debug\deps\libtoml-7c6a343a3753ceed.rmeta: C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\lib.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\map.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\value.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\de.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\ser.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\macros.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\edit.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\fmt.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\table.rs
+
+C:\Users\jistr\Star\contracts\target\debug\deps\toml-7c6a343a3753ceed.d: C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\lib.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\map.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\value.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\de.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\ser.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\macros.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\edit.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\fmt.rs C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\table.rs
+
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\lib.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\map.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\value.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\de.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\ser.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\macros.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\edit.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\fmt.rs:
+C:\Users\jistr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.20\src\table.rs:
